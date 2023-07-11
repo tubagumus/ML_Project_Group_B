@@ -1,3 +1,4 @@
+country code,postal code,place,state,statecode,province_or_county,province_or_countycode,community,communitycode,latitude,longitude,accuracy,Country,Continent
 US,90001,Los Angeles,California,CA,Los Angeles,37,,,33.9731,-118.2479,4,United States,North America
 US,90002,Los Angeles,California,CA,Los Angeles,37,,,33.9497,-118.2462,4,United States,North America
 US,90003,Los Angeles,California,CA,Los Angeles,37,,,33.9653,-118.2727,4,United States,North America
